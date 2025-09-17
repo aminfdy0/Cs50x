@@ -1,4 +1,4 @@
-#include <cs50.c> //for use get_string function
+#include <cs50.h> //for use get_string function
 #include <stdio.h> // for use printf function
 
 int main(void)

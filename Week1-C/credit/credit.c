@@ -7,10 +7,9 @@ int number_len(long long nb);
 int main(void)
 {
      // get card number from user
-     long long  number ;
      do
      {
-          number = get_long_long("Number: ");
+          int number = get_long_long("Number: ");
      } while (number < 0);
 
      long long copy_card = number;

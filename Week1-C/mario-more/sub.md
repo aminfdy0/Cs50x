@@ -1,3 +1,4 @@
+# TASK
 In a file called mario.c in a folder called mario-more, implement a program in C that recreates that pyramid, using hashes (#) for bricks, as in the below:
 ```
    #  #

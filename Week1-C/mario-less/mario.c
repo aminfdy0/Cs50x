@@ -1,4 +1,4 @@
-#include <cs50.c>   // For get_int
+#include <cs50.h>   // For get_int
 #include <stdio.h>  // For printf
 
 int main(void)

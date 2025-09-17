@@ -1,7 +1,7 @@
 //to understad this code will u should be see and understand the code of mario-less
 
 #include <stdio.h>   // For use printf funtion
-#include <cs50.c>    // For use get_int funtion
+#include <cs50.h>    // For use get_int funtion
 
 // Prints a row of hashes ('#')
 void print_hashes(int count)
