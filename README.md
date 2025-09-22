@@ -33,6 +33,17 @@ The course is organized into weekly topics:
 - **Final Project:** 
 ---
 
+## Alerts
+- Always test your code with:
+  ```
+  check50 cs50/problems/2025/x/filename
+  ```
+   > If there are any mistakes, please let me know so I can fix them
+- Always check your coding style with:
+```
+  submit50 cs50/problems/2025/x/filename
+```
+
 ## Purpose of This Repository
 - Documenting my journey and solutions through CS50x.  
 - Creating a personal archive for future reference.  
