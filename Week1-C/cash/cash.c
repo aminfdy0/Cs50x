@@ -12,7 +12,7 @@ int main(void)
         change = get_int("change owed: ");
     }
     while (change < 0);
-
+    
     int Qcoins = quarter(change);
     change = change - (Qcoins*25);
 
